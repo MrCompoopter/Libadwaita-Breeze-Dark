@@ -19,3 +19,11 @@ A modification of the Breeze Dark GTK4 theme made specifically for Flatpak Libad
 2. Use [Flatseal](https://flathub.org/apps/details/com.github.tchx84.Flatseal) to give all flatpak apps permissions to read these directories.
 ![directories](https://cdn.discordapp.com/attachments/452692526462140417/1011621646391586876/Screenshot_20220823_200302.png)
 3. Reboot your system to make sure that all flatpak libadwaita apps would use the new theme.
+
+## Screenshots
+### Amberol
+![Screenshot_20220823_210830](https://user-images.githubusercontent.com/22149526/186180001-b16009ea-460b-4285-8a87-ec08455ca2a9.png)
+### Bottles
+![Screenshot_20220823_210955](https://user-images.githubusercontent.com/22149526/186180357-23e63922-3622-457e-a03e-90fae9c11521.png)
+### Style Classes (lib)Adwaita Demo
+![Screenshot_20220823_210613](https://user-images.githubusercontent.com/22149526/186179501-7ba7eefc-408a-4da1-a262-c9f28d3b8ff4.png)
