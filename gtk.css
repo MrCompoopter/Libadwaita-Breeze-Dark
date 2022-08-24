@@ -760,7 +760,7 @@ button {
   color: @theme_button_foreground_normal_breeze;
   border-color: @borders_breeze;
 /* commented since this breaks libadwaita-app-specific css overrides regarding transparency
-  background: linear-gradient(180deg, mix(@theme_button_background_normal_breeze,white,0.03125) 0%, @theme_button_background_normal_breeze 50%, mix(@theme_button_background_normal_breeze,black,0.03125) 100%); */}
+  background: linear-gradient(180deg, mix(@theme_button_background_normal_breeze,white,0.03125) 0%, @theme_button_background_normal_breeze 50%, mix(@theme_button_background_normal_breeze,black,0.03125) 100%); */
   font-weight: normal;
 }
 
