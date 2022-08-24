@@ -15,7 +15,7 @@ A modification of the Breeze Dark GTK4 theme made specifically for Flatpak Libad
 - A one-to-one port of the GTK4 and/or GTK3 and/or QStyle Breeze style.
 
 ## Installation
-1. [Download the gtk.css file](https://github.com/MrCompoopter/Libadwaita-Breeze-Dark/releases) and put it in `~/.config/gtk-4.0/`. Backup the pre existing gtk.css file if it exists.
+1. [Download the gtk.css file](https://github.com/MrCompoopter/Libadwaita-Breeze-Dark/releases/latest) and put it in `~/.config/gtk-4.0/`. Backup the pre existing gtk.css file if it exists.
 2. Use [Flatseal](https://flathub.org/apps/details/com.github.tchx84.Flatseal) to give all flatpak apps permissions to read these directories.
 ![directories](https://cdn.discordapp.com/attachments/452692526462140417/1011621646391586876/Screenshot_20220823_200302.png)
 3. Reboot your system to make sure that all flatpak libadwaita apps would use the new theme.
